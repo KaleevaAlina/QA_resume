@@ -24,7 +24,7 @@ a:hover {
 }
 .left{
   width: 470px;
-  padding-right: 60px;
+  /* padding-right: 60px; */
   border-right: 1px solid #686565;
 }
 .right {
@@ -194,7 +194,7 @@ a{
   flex-direction: column;
   justify-content: space-around;
   align-items: stretch;  
-  padding: 20px 10px 10px 30px;
+  padding: 30px 30px 30px 30px;
   background: url('../img/pic.jpg') center center/cover no-repeat; 
 }
 .container{
@@ -206,6 +206,8 @@ a{
 }
 .photo{
   display: block; 
+  width: 80%;
+  height: 80%;
   margin: 0 auto;
   padding-bottom: 10px;
 }
