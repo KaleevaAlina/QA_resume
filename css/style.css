@@ -5,6 +5,7 @@
 }
 a:hover { 
   color:rgb(204, 193, 184);
+  color: #e0d3c3;
  }
 .one_block{
   max-width: 1920px;	
@@ -307,6 +308,7 @@ P{
 }
 a{
   color: #ffff;
+  color: #e0d3c3;
 }
 .skills{
   font-size: 32px;
