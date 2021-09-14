@@ -76,6 +76,7 @@ a:hover {
   text-align: center;
   padding-bottom: 30px;
   filter: drop-shadow(0.5px 0.5px 12px rgba(208, 204, 204, 0.5));
+  color: #e0d3c3;
 }
 .header_t{
   font-size: 23px;
@@ -338,6 +339,7 @@ a{
  font-size: 20px;  
  text-decoration: none;
  filter: drop-shadow(0.5px 0.5px 12px rgba(208, 204, 204, 0.5)); 
+ color: #e0d3c3; 
 }
 .footer {
   max-width: 100%;	
