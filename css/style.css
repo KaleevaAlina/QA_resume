@@ -4,8 +4,7 @@
   text-decoration: none;
 }
 a:hover { 
-  color:rgb(204, 193, 184);
-  color: #c9914c;
+  color: #e9a859;
  }
 .one_block{
   max-width: 1920px;	
@@ -307,8 +306,7 @@ P{
   text-decoration: none;
 }
 a{
-  color: #ffff;
-  color: #e0d3c3;
+  color: #e9a859;
 }
 .skills{
   font-size: 32px;
