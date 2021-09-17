@@ -199,6 +199,9 @@ a{
   font-size: 22px;
   font-weight: 600;
 }
+.hrres {
+  font-size: 22px; 
+}
 @media  (max-width: 768px) {
 .one_block{
   max-width: 100%;
