@@ -210,7 +210,8 @@ a{
   height: 40px;
 }	
 .pageup  img{
-  width: 100%;
+  width: 10px;
+  height:10px;
 }  
 @media  (max-width: 768px) {
 .one_block{
