@@ -9,6 +9,7 @@ a:hover {
 .one_block{
   max-width: 1920px;	
   min-height: 800px;
+  position: relative;
   padding: 90px 100px  90px 100px;
   background: url('../img/pic.jpg') center center/cover no-repeat;
   margin: 0 auto;
@@ -29,7 +30,6 @@ a:hover {
 }
 .left{
   width: 470px;
-  /* padding-right: 60px; */
   border-right: 1px solid #686565;
 }
 .right {
@@ -202,6 +202,16 @@ a{
 .hrres {
   font-size: 22px; 
 }
+.pageup {
+  position: absolute;
+  bottom: 40px;
+  right: 40px;
+  width: 40px;
+  height: 40px;
+}	
+.pageup  img{
+  width: 100%;
+}  
 @media  (max-width: 768px) {
 .one_block{
   max-width: 100%;
