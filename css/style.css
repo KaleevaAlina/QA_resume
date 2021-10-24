@@ -12,7 +12,7 @@ a:hover {
   position: relative;
   padding: 90px 100px  90px 100px;
   /*background: url('../img/2.png') center center/cover no-repeat;*/
-  background: radial-gradient(46.74% 46.74% at 50% 53.26%,#566d88 10%,#1e3046 100%);
+  background: radial-gradient(46.74% 46.74% at 50% 53.26%,#c4b918 10%,#87b19a 100%);
   margin: 0 auto;
   text-shadow: 1px 1px 2px black, 0 0 1em #b9b5b5;
 }
@@ -223,7 +223,7 @@ img .pageup {
   align-items: stretch;  
   padding: 30px 30px 30px 30px;
   /*background: url('../img/2.png') center center/cover no-repeat;*/
-  background: radial-gradient(46.74% 46.74% at 50% 53.26%,#566d88 10%,#1e3046 100%);
+  background: radial-gradient(46.74% 46.74% at 50% 53.26%,#c4b918 10%,#87b19a 100%);
   text-shadow: 1px 1px 2px black, 0 0 1em #b9b5b5;
 }
 .container{
