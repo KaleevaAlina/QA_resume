@@ -10,7 +10,7 @@ a:hover {
   max-width: 1920px;	
   min-height: 800px;
   position: relative;
-  padding: 90px 100px  90px 100px;
+  padding: 50px;
   /*background: url('../img/2.png') center center/cover no-repeat;*/
   background: radial-gradient(46.74% 46.74% at 50% 53.26%,#413d0a 10%,#072030 100%);
   margin: 0 auto;
@@ -53,17 +53,17 @@ a:hover {
 .phone a, .mail a {
   text-decoration: none;	
   color: #ffff;
-  font-size: 25px;
+  font-size: 20px;
 }
 .mail{
-  font-size: 25px;
+  font-size: 20px;
   color: #ffff;
-  padding-bottom: 30px;
+  padding-bottom: 10px;
 }
 .birth{
-  font-size: 25px;
+  font-size: 20px;
   color: #ffff;
-  padding-bottom: 30px;
+  padding-bottom: 20px;
 }
 .linkedin{
   width: 40px;
@@ -75,7 +75,7 @@ a:hover {
 }
 .hrefs{
   text-align: center;
-  padding-bottom: 30px;
+  padding-bottom: 10px;
   filter: drop-shadow(0.5px 0.5px 12px rgba(208, 204, 204, 0.5));
   color: #e0d3c3;
 }
@@ -246,13 +246,15 @@ img .pageup {
   width: 100%;
   margin: 0 auto; 
   border-right: none;
+  padding-bottom: 40px;
 }
 .contacts{
   font-size: 30px;
   color: #d7965d;
   font-weight: bold;
   text-align: center;
-  padding-bottom: 20px;
+  padding-top: 10px;
+  padding-bottom: 10px;
   font-family: "Roboto Light";
 }
 .phone{
@@ -264,10 +266,15 @@ img .pageup {
 .phone a, .mail a {
   text-decoration: none;	
   color: #ffff;
-  font-size: 25px;
+  font-size: 20px;
 }
 .mail{
-  font-size: 25px;
+  font-size: 20px;
+  color: #ffff;
+  padding-bottom: 10px;
+}
+.birth{
+  font-size: 20px;
   color: #ffff;
   padding-bottom: 30px;
 }
@@ -281,7 +288,7 @@ img .pageup {
 }
 .hrefs{
   text-align: center;
-  padding-bottom: 30px;
+  padding-bottom: 10px;
 }
 .header_t{
   font-size: 23px;
@@ -301,8 +308,8 @@ P{
   padding-left: 15px;	
 }
 .right_header{
-  font-size: 28px;
-  color: #fff;
+  font-size: 38px;
+  color: #d7965d;
   font-weight: bold;
   padding-bottom: 17px;
   font-family: "Roboto Light";
@@ -338,10 +345,16 @@ a{
   line-height: 20px;
   margin-bottom: 20px;
 }
+.descr {
+    padding-left: 0px;
+    line-height: 20px;
+    padding-bottom: 20px;
+}
 .skil {
   color: #ffff;
   font-size: 20px;  
   text-decoration: none;
+  padding-left: 5px;
 }
 .href{
 }
