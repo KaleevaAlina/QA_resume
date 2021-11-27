@@ -14,7 +14,7 @@ a:hover {
   /*background: url('../img/2.png') center center/cover no-repeat;*/
   background: radial-gradient(46.74% 46.74% at 50% 53.26%,#413d0a 10%,#072030 100%);
   margin: 0 auto;
-  text-shadow: 1px 1px 2px black, 0 0 1em #b9b5b5;
+  text-shadow: 0.5px 0.5px 0.5px black, 0 0 0.1em #b9b5b5;
 }
 .container{
   width: 1145px;	
