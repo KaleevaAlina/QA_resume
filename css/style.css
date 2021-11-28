@@ -17,24 +17,31 @@ a:hover {
   text-shadow: 0.5px 0.5px 0.5px black, 0 0 0.1em #b9b5b5;
 }
 .container{
-  width: 1145px;	
+  /* width: 1145px;	 */
   margin: 0 auto;
   display: flex;
 }
 .photo{
   width: 320px;
   height: 330px;
-  margin-bottom: 30px;
+  margin-bottom: 50px;
   border-radius: 5px;
   border: 1px solid #e7f5e7;
   box-shadow: 0 0 7px #f2ebeb;
+  display: block;
+  margin: 0 auto;
 }
 .left{
-  width: 470px;
+  width: 800px;
   border-right: 1px solid #686565;
+  display: block;
+  margin: 0 auto;
 }
 .right {
-  padding-left: 60px;	
+  width: 900px;	
+  padding-left: 60px;
+  display: block;
+  margin: 0 auto;  
 }
 .contacts{
   font-size: 30px;
@@ -43,6 +50,7 @@ a:hover {
   text-align: center;
   padding-bottom: 20px;
   font-family: "Roboto Light";
+  padding-top: 20px;
 }
 .phone{
   font-size: 25px;
@@ -306,6 +314,7 @@ P{
 }
 .right {
   padding-left: 15px;	
+  width: 100%;
 }
 .right_header{
   font-size: 38px;
@@ -313,6 +322,7 @@ P{
   font-weight: bold;
   padding-bottom: 17px;
   font-family: "Roboto Light";
+  width: 100%;
 }
 .right_header2{
   font-size: 25px;
@@ -320,6 +330,7 @@ P{
   font-weight: bold;
   padding-bottom: 20px;
   font-family: "Roboto Light";
+  width: 100%;
 }
 .hr a{
   display: flex;
@@ -344,17 +355,17 @@ a{
 .descr{
   line-height: 20px;
   margin-bottom: 20px;
-}
-.descr {
-    padding-left: 0px;
-    line-height: 20px;
-    padding-bottom: 20px;
+  padding-left: 0px;
+  line-height: 20px;
+  padding-bottom: 20px;
+  width: 100%;
 }
 .skil {
   color: #ffff;
   font-size: 20px;  
   text-decoration: none;
   padding-left: 5px;
+  width: 100%;
 }
 .href{
 }
