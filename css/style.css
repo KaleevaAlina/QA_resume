@@ -74,6 +74,7 @@ a:hover {
   font-size: 20px;
   color: #000000;
   padding-bottom: 20px;
+  font-weight: bold;
 }
 .linkedin{
   width: 40px;
@@ -104,17 +105,17 @@ P{
   font-weight: 600;
 }
 .right_header{
-  font-size: 28px;
+  font-size: 30px;
   color: #d7965d;
   font-weight: bold;
   padding-bottom: 17px;
   font-family: "Roboto Light";
 }
 .right_header2{
-  font-size: 25px;
+  font-size: 20px;
   color: #000000;
   font-weight: bold;
-  padding-bottom: 20px;
+  padding-bottom: 020px;
   font-family: "Roboto Light";
 }
 .hr a{
@@ -129,14 +130,14 @@ a{
   font-weight: 600;
 }
 .skills{
-  font-size: 32px;
+  font-size: 30px;
   color: #d7965d;
   font-weight: bold;
   padding-bottom: 20px;
   font-family: "Roboto Light";
 }
 .text{
-  font-size: 25px;
+  font-size: 20px;
   color: #000000;
 }
 .descr{
@@ -151,7 +152,7 @@ a{
   text-decoration: none;
 }
 .href{
-  margin-left: 25px;
+  margin-left: 20px;
 }
 .res{
   text-decoration: none;
@@ -191,7 +192,7 @@ a{
   position: absolute;
   top: 25%;
   left: 25%;
-  font-size: 16px;
+  font-size: 20px;
 }
 .footer_line {
   display: block;
@@ -208,11 +209,11 @@ a{
   padding-bottom: 29px;
   color: #0000fff;
   font-family: "Roboto Slab";
-  font-size: 22px;
+  font-size: 20px;
   font-weight: 600;
 }
 .hrres {
-  font-size: 22px; 
+  font-size: 20px; 
 }
 .pageup {
   position: absolute;
@@ -269,7 +270,7 @@ img .pageup {
   font-family: "Roboto Light";
 }
 .phone{
-  font-size: 25px;
+  font-size: 20px;
   color: #0000f;
   padding-bottom: 5px;
   font-family: "Roboto Light";
@@ -302,7 +303,7 @@ img .pageup {
   padding-bottom: 10px;
 }
 .header_t{
-  font-size: 23px;
+  font-size: 20px;
   color: #000000;
   font-weight: bold;
   text-align: center;
@@ -320,7 +321,7 @@ P{
   width: 100%;
 }
 .right_header{
-  font-size: 38px;
+  font-size: 30px;
   color: #d7965d;
   font-weight: bold;
   padding-bottom: 17px;
@@ -328,7 +329,7 @@ P{
   width: 100%;
 }
 .right_header2{
-  font-size: 25px;
+  font-size: 20px;
   color: #000000;
   font-weight: bold;
   padding-bottom: 20px;
@@ -348,14 +349,14 @@ a:hover {
   color: #281500;
  }
 .skills{
-  font-size: 32px;
+  font-size: 30px;
   color: #d7965d;
   font-weight: bold;
   padding-bottom: 20px;
   font-family: "Roboto Light";
 }
 .text{
-  font-size: 25px;
+  font-size: 20px;
   color: #000000;
 }
 .descr{
@@ -414,7 +415,7 @@ a:hover {
   position: absolute;
   top: 25%;
   left: 25%;
-  font-size: 16px;
+  font-size: 20px;
 }
 .footer_line {
   display: block;
@@ -431,7 +432,7 @@ a:hover {
   padding-bottom: 29px;
   color: #000000;
   font-family: "Roboto Slab";
-  font-size: 22px;
+  font-size: 20px;
   font-weight: 600;
 }
 }
