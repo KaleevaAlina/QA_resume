@@ -13,8 +13,9 @@ a:hover {
   padding: 50px;
   /*background: url('../img/2.png') center center/cover no-repeat;*/
   /*background: radial-gradient(46.74% 46.74% at 50% 53.26%,#413d0a 10%,#072030 100%);*/
-  background: #072030;
+  background: #0000afa;
   margin: 0 auto;
+  color: #000000;
   /*text-shadow: 0.1px 0.1px 0.1px black, 0 0 0.1em #b9b5b5;*/
 }
 .container{
@@ -27,7 +28,7 @@ a:hover {
   height: 330px;
   margin-bottom: 50px;
   border-radius: 5px;
-  border: 1px solid #e7f5e7;
+  border: 1px solid #bbb3ab;
   box-shadow: 0 0 7px #f2ebeb;
   display: block;
   margin: 0 auto;
@@ -55,23 +56,23 @@ a:hover {
 }
 .phone{
   font-size: 25px;
-  color: #ffff;
+  color: #000000;
   padding-bottom: 5px;
   font-family: "Roboto Light";
 }
 .phone a, .mail a {
   text-decoration: none;	
-  color: #ffff;
+  color: #000000;
   font-size: 20px;
 }
 .mail{
   font-size: 20px;
-  color: #ffff;
+  color: #000000;
   padding-bottom: 10px;
 }
 .birth{
   font-size: 20px;
-  color: #ffff;
+  color: #000000;
   padding-bottom: 20px;
 }
 .linkedin{
@@ -90,14 +91,14 @@ a:hover {
 }
 .header_t{
   font-size: 23px;
-  color: #ffff;
+  color: #000000;
   font-weight: bold;
   text-align: center;
   padding-bottom: 20px;
 }
 P{
   font-size:20px;
-  color: #ffff;
+  color: #000000;
   line-height: 27px;
   font-family: "Roboto Light";
   font-weight: 600;
@@ -111,7 +112,7 @@ P{
 }
 .right_header2{
   font-size: 25px;
-  color: #fff;
+  color: #000000;
   font-weight: bold;
   padding-bottom: 20px;
   font-family: "Roboto Light";
@@ -124,7 +125,8 @@ P{
   text-decoration: none;
 }
 a{
-  color: #e0d3c3;
+  color: #d7965d;
+  font-weight: 600;
 }
 .skills{
   font-size: 32px;
@@ -135,7 +137,7 @@ a{
 }
 .text{
   font-size: 25px;
-  color: #ffff;
+  color: #000000;
 }
 .descr{
   padding-left: 60px;
@@ -143,7 +145,7 @@ a{
   padding-bottom: 20px;
 }
 .skil {
-  color: #ffff;
+  color: #0000f;
   padding-left: 50px;
   font-size: 20px;  
   text-decoration: none;
@@ -155,7 +157,7 @@ a{
   text-decoration: none;
 }
 .hrefs a{
- color: #ffff;
+ color: #000000;
  font-weight: 600;
  font-size: 20px;  
  text-decoration: none;
@@ -169,7 +171,7 @@ a{
   margin: 0 auto;
 }
 .wrapper_icon {
-  border: 2px solid #ffffff;
+  border: 2px solid #000000;
   width: 35px;
   height: 35px;
   border-radius: 50%;
@@ -184,7 +186,7 @@ a{
   padding-bottom: 30px;
 }
 .fab {
-  color: #fff;
+  color: #0000;
   vertical-align: center;
   position: absolute;
   top: 25%;
@@ -194,7 +196,7 @@ a{
 .footer_line {
   display: block;
   margin: 0 auto;
-  border-bottom: 2px solid #ffffff;
+  border-bottom: 2px solid #000000;
   width: 60px;
   padding-bottom: 29px;
 }
@@ -204,7 +206,7 @@ a{
   justify-content: center;
   align-items:center;
   padding-bottom: 29px;
-  color: #ffffff;
+  color: #0000fff;
   font-family: "Roboto Slab";
   font-size: 22px;
   font-weight: 600;
@@ -268,23 +270,23 @@ img .pageup {
 }
 .phone{
   font-size: 25px;
-  color: #ffff;
+  color: #0000f;
   padding-bottom: 5px;
   font-family: "Roboto Light";
 }
 .phone a, .mail a {
   text-decoration: none;	
-  color: #ffff;
+  color: #000000;
   font-size: 20px;
 }
 .mail{
   font-size: 20px;
-  color: #ffff;
+  color: #000000;
   padding-bottom: 10px;
 }
 .birth{
   font-size: 20px;
-  color: #ffff;
+  color: #000000;
   padding-bottom: 30px;
 }
 .linkedin{
@@ -301,14 +303,14 @@ img .pageup {
 }
 .header_t{
   font-size: 23px;
-  color: #ffff;
+  color: #000000;
   font-weight: bold;
   text-align: center;
   padding-bottom: 20px;
 }
 P{
   font-size:20px;
-  color: #ffff;
+  color: #000000;
   line-height: 27px;
   font-family: "Roboto Light";
   font-weight: 600;
@@ -327,7 +329,7 @@ P{
 }
 .right_header2{
   font-size: 25px;
-  color: #fff;
+  color: #000000;
   font-weight: bold;
   padding-bottom: 20px;
   font-family: "Roboto Light";
@@ -351,7 +353,7 @@ a{
 }
 .text{
   font-size: 25px;
-  color: #ffff;
+  color: #000000;
 }
 .descr{
   line-height: 20px;
@@ -362,7 +364,7 @@ a{
   width: 100%;
 }
 .skil {
-  color: #ffff;
+  color: #000000;
   font-size: 20px;  
   text-decoration: none;
   padding-left: 5px;
@@ -374,7 +376,7 @@ a{
   text-decoration: none;
 }
 .hrefs a{
- color: #ffff;
+ color: #000000;
  font-weight: 600;
  font-size: 20px;  
  text-decoration: none;
@@ -389,7 +391,7 @@ a{
   margin: 0 auto;
 }
 .wrapper_icon {
-  border: 2px solid #ffffff;
+  border: 2px solid #0000fff;
   width: 35px;
   height: 35px;
   border-radius: 50%;
@@ -404,7 +406,7 @@ a{
   padding-bottom: 30px;
 }
 .fab {
-  color: #fff;
+  color: #000000;
   vertical-align: center;
   position: absolute;
   top: 25%;
@@ -414,7 +416,7 @@ a{
 .footer_line {
   display: block;
   margin: 0 auto;
-  border-bottom: 2px solid #ffffff;
+  border-bottom: 2px solid #0000fff;
   width: 60px;
   padding-bottom: 29px;
 }
@@ -424,7 +426,7 @@ a{
   justify-content: center;
   align-items:center;
   padding-bottom: 29px;
-  color: #ffffff;
+  color: #000000;
   font-family: "Roboto Slab";
   font-size: 22px;
   font-weight: 600;
