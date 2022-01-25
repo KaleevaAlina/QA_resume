@@ -234,8 +234,8 @@ img .pageup {
   align-items: stretch;  
   padding: 30px 30px 30px 30px;
   /*background: url('../img/2.png') center center/cover no-repeat;*/
-  background: radial-gradient(46.74% 46.74% at 50% 53.26%,#413d0a 10%,#072030 100%);
-  text-shadow: 1px 1px 2px black, 0 0 1em #b9b5b5;
+  background: #fff;
+  color: #000000;
 }
 .container{
   max-width: 100%;	
@@ -344,6 +344,9 @@ P{
 a{
   color: #e9a859;
 }
+a:hover { 
+  color: #281500;
+ }
 .skills{
   font-size: 32px;
   color: #d7965d;
