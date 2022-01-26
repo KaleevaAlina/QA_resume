@@ -84,6 +84,12 @@ a:hover {
   width: 40px;
   font-weight: bold;
 }
+.linkedin:hover{	
+  opacity: 0.6;
+}
+.github:hover{
+   opacity: 0.6;
+}
 .hrefs{
   text-align: center;
   padding-bottom: 10px;
